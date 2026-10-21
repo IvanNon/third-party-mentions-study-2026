@@ -1,0 +1,4 @@
+pages_mentioning_brand,answers,named_answers,named_rate_pct,ci95_low_pct,ci95_high_pct,answers_no_link,named_rate_no_link_pct,answers_with_link,named_rate_with_link_pct
+1,6481,1151,17.8,10.5,22.6,5038,17.9,1443,17.3
+2,2939,856,29.1,18.7,39.7,1912,28.4,1027,30.5
+3+,4501,2871,63.8,54.0,73.4,1705,57.1,2796,67.8

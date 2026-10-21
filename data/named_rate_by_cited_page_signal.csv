@@ -1,0 +1,5 @@
+cited_third_party_pages,answers,named_answers,named_rate_pct,ci95_low_pct,ci95_high_pct,brands
+No mention,57128,786,1.4,0.4,3.1,42
+"Unbranded link (links, no name)",846,17,2.0,1.2,10.5,14
+"Mention, no link",8655,2418,27.9,16.6,37.5,33
+Mention + link,5266,2460,46.7,36.9,64.6,27

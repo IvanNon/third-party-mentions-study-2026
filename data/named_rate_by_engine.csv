@@ -1,0 +1,5 @@
+engine,answers_no_mention,named_rate_no_mention_pct,answers_mention_no_link,named_rate_mention_no_link_pct,answers_mention_link,named_rate_mention_link_pct
+Google AI Mode,13612,1.7,1981,36.1,1368,50.1
+Google AI Overviews,13822,1.1,1901,32.1,1060,51.1
+ChatGPT,14594,2.4,2070,30.9,1388,48.8
+Perplexity,15100,0.4,2703,16.8,1450,38.3

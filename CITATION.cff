@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data or methodology, please cite it as below."
+title: "Third-Party Mentions Study 2026"
+type: dataset
+authors:
+  - family-names: Nonveiller
+    given-names: Ivan
+    affiliation: Reach
+version: "1.0"
+date-released: 2026-10-20
+license: CC-BY-4.0
+repository-code: "https://github.com/IvanNon/third-party-mentions-study-2026"
+abstract: "Methodology and aggregated, anonymized data on how third-party pages cited in AI answers get brands named: mentions vs unbranded links, number of mentioning pages, and per engine, across ChatGPT, Perplexity, Google AI Mode and Google AI Overviews, Jan-Aug 2026."
+keywords:
+  - ai-search
+  - geo
+  - aeo
+  - llm-citations
+  - brand-mentions
